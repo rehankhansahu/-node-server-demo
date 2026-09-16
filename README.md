@@ -11,9 +11,9 @@ npm -v
 
 ### Screenshot #1
 
-![Screenshot #1](screenshots/screenshot%231.png)
+![Screenshot #1](screenshots/Screenshot%231.PNG)
 
-**File Name:** `screenshot#1.png`
+**File Name:** `Screenshot#1.PNG`
 
 ---
 
@@ -28,9 +28,9 @@ cd node-server-demo
 
 ### Screenshot #2
 
-![Screenshot #2](screenshots/screenshot%232.png)
+![Screenshot #2](screenshots/Screenshot%232.PNG)
 
-**File Name:** `screenshot#2.png`
+**File Name:** `Screenshot#2.PNG`
 
 ---
 
@@ -46,9 +46,9 @@ This command created the `package.json` file.
 
 ### Screenshot #3
 
-![Screenshot #3](screenshots/screenshot%233.png)
+![Screenshot #3](screenshots/Screenshot%233.PNG)
 
-**File Name:** `screenshot#3.png`
+**File Name:** `Screenshot#3.PNG`
 
 ---
 
@@ -58,9 +58,9 @@ A `server.js` file was created containing the Node.js HTTP server code. The serv
 
 ### Screenshot #4
 
-![Screenshot #4](screenshots/screenshot%234.png)
+![Screenshot #4](screenshots/Screenshot%234.PNG)
 
-**File Name:** `screenshot#4.png`
+**File Name:** `Screenshot#4.PNG`
 
 ---
 
@@ -76,9 +76,9 @@ The server started successfully on port `3000`.
 
 ### Screenshot #5
 
-![Screenshot #5](screenshots/screenshot%235.png)
+![Screenshot #5](screenshots/Screenshot%235.PNG)
 
-**File Name:** `screenshot#5.png`
+**File Name:** `Screenshot#5.PNG`
 
 ---
 
@@ -94,9 +94,9 @@ The browser successfully displayed **Hello Javascript**.
 
 ### Screenshot #6
 
-![Screenshot #6](screenshots/screenshot%236.png)
+![Screenshot #6](screenshots/Screenshot%236.PNG)
 
-**File Name:** `screenshot#6.png`
+**File Name:** `Screenshot#6.PNG`
 
 ---
 
@@ -105,9 +105,9 @@ The browser successfully displayed **Hello Javascript**.
 * `server.js`
 * `package.json`
 * `README.md`
-* `screenshot#1.png`
-* `screenshot#2.png`
-* `screenshot#3.png`
-* `screenshot#4.png`
-* `screenshot#5.png`
-* `screenshot#6.png`
+* `Screenshot#1.PNG`
+* `Screenshot#2.PNG`
+* `Screenshot#3.PNG`
+* `Screenshot#4.PNG`
+* `Screenshot#5.PNG`
+* `Screenshot#6.PNG`
